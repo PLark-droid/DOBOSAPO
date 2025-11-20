@@ -57,7 +57,7 @@
       height: 100% !important;
     }
 
-    .reveal section {
+    .reveal .slides > section > section {
       background: white;
       border-radius: 16px;
       padding: 40px 60px !important;
@@ -71,7 +71,13 @@
       text-align: left !important;
     }
 
-    .reveal section.center {
+    .reveal .slides > section {
+      background: transparent !important;
+      box-shadow: none !important;
+      padding: 0 !important;
+    }
+
+    .reveal .slides > section > section.center {
       display: flex !important;
       flex-direction: column;
       justify-content: center;
@@ -79,13 +85,13 @@
       text-align: center !important;
     }
 
-    .reveal section > * {
+    .reveal .slides > section > section > * {
       text-align: left !important;
       margin-left: 0 !important;
       margin-right: 0 !important;
     }
 
-    .reveal section.center > * {
+    .reveal .slides > section > section.center > * {
       text-align: center !important;
     }
 

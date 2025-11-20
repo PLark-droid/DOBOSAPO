@@ -1,0 +1,291 @@
+{
+  "schemaVersion": 1,
+  "projectPath": "/Users/hiroki-matsui/DOBOSAPO",
+  "projectRootName": "DOBOSAPO",
+  "graphRenderingMode": "normal",
+  "linkDisplayMode": "all",
+  "graphStats": {
+    "totalNodes": 1,
+    "folders": 1,
+    "files": 0,
+    "images": 0,
+    "videos": 0,
+    "audio": 0,
+    "code": 0,
+    "text": 0,
+    "html": 0,
+    "yaml": 0,
+    "json": 0,
+    "other": 0,
+    "totalLines": 0,
+    "maxLines": 0
+  },
+  "directoryTree": {
+    "name": "DOBOSAPO",
+    "type": "directory",
+    "children": []
+  },
+  "graphData": {
+    "nodes": [
+      {
+        "id": "DOBOSAPO",
+        "name": "DOBOSAPO",
+        "path": "DOBOSAPO",
+        "type": "directory",
+        "lines": 0,
+        "val": 14,
+        "color": "#4d515a",
+        "baseColor": "#4ec9b0",
+        "originalColor": "#4ec9b0",
+        "defaultGlow": 0.18,
+        "glowIntensity": 0.18,
+        "highlighted": false,
+        "parentPath": null,
+        "childFileCount": 0,
+        "x": -1.0431219561854131e-75,
+        "y": 1.6932974396988613e-75,
+        "z": 2.573092680966189e-75,
+        "vx": -1.0431219561854131e-75,
+        "vy": 1.6932974396988613e-75,
+        "vz": 2.573092680966189e-75
+      }
+    ],
+    "links": []
+  },
+  "trackedFiles": [],
+  "uiState": {
+    "expandedDirs": [
+      "DOBOSAPO"
+    ],
+    "selectedPath": null
+  },
+  "directoryTreeMeta": {
+    "mode": "full",
+    "maxDepthApplied": 10,
+    "maxEntriesPerDirectory": 0,
+    "isPartial": false
+  },
+  "gitHistoryMeta": {
+    "mode": "full",
+    "isPartial": false,
+    "branchPulse": null
+  },
+  "gitHistoryState": {
+    "selectedTimelineIndex": 1,
+    "activeCommitHash": "c502918d34704376187eed89ab93681f0f3d4446",
+    "entries": [
+      {
+        "type": "live",
+        "label": "現在のコードベース",
+        "files": [],
+        "branch": "main",
+        "targetCommitHash": "0000000000000000000000000000000000000000",
+        "worktreePath": "/Users/hiroki-matsui/DOBOSAPO",
+        "timestamp": 1763606761535,
+        "lane": 0,
+        "branchLabel": "main",
+        "branchTags": [
+          "main"
+        ],
+        "isDefaultWorktree": true,
+        "branchColor": "#4f85e8",
+        "index": 0
+      },
+      {
+        "type": "commit",
+        "label": "Merge task/1763411224463-16281f: Novel reader UI implementat…",
+        "commit": {
+          "hash": "c502918d34704376187eed89ab93681f0f3d4446",
+          "subject": "Merge task/1763411224463-16281f: Novel reader UI implementation",
+          "author": "Hiroki Matsui",
+          "timestamp": 1763606291,
+          "parents": [
+            "dc3b6fc2a060c53eb08e47145fba25f32f88f9e0",
+            "cf64c8a09d97d906a4f708b6843928e020c046ca"
+          ],
+          "parent": "dc3b6fc2a060c53eb08e47145fba25f32f88f9e0",
+          "refs": "HEAD -> main",
+          "branches": [
+            "HEAD -> main",
+            "main",
+            "task/1763411224463-16281f"
+          ]
+        },
+        "commitHash": "c502918d34704376187eed89ab93681f0f3d4446",
+        "lane": 0,
+        "parentLinks": [
+          {
+            "hash": "dc3b6fc2a060c53eb08e47145fba25f32f88f9e0",
+            "lane": 0
+          },
+          {
+            "hash": "cf64c8a09d97d906a4f708b6843928e020c046ca",
+            "lane": 1
+          }
+        ],
+        "primaryBranchName": "main",
+        "branchColor": "#4f85e8",
+        "branchTags": [
+          "main",
+          "task/1763411224463-16281f"
+        ],
+        "index": 1
+      },
+      {
+        "type": "commit",
+        "label": "Update Kamui state files",
+        "commit": {
+          "hash": "dc3b6fc2a060c53eb08e47145fba25f32f88f9e0",
+          "subject": "Update Kamui state files",
+          "author": "Hiroki Matsui",
+          "timestamp": 1763606084,
+          "parents": [
+            "0cffac98267bf03d3ddc458bda699b2b4bfe7f7b"
+          ],
+          "parent": "0cffac98267bf03d3ddc458bda699b2b4bfe7f7b",
+          "refs": "",
+          "branches": [
+            "main"
+          ]
+        },
+        "commitHash": "dc3b6fc2a060c53eb08e47145fba25f32f88f9e0",
+        "lane": 0,
+        "parentLinks": [
+          {
+            "hash": "0cffac98267bf03d3ddc458bda699b2b4bfe7f7b",
+            "lane": 0
+          }
+        ],
+        "primaryBranchName": "main",
+        "branchColor": "#4f85e8",
+        "branchTags": [],
+        "index": 2
+      },
+      {
+        "type": "commit",
+        "label": "Add novel reader UI with card layout and modal display",
+        "commit": {
+          "hash": "cf64c8a09d97d906a4f708b6843928e020c046ca",
+          "subject": "Add novel reader UI with card layout and modal display",
+          "author": "Hiroki Matsui",
+          "timestamp": 1763605777,
+          "parents": [
+            "0cffac98267bf03d3ddc458bda699b2b4bfe7f7b"
+          ],
+          "parent": "0cffac98267bf03d3ddc458bda699b2b4bfe7f7b",
+          "refs": "task/1763411224463-16281f",
+          "branches": [
+            "task/1763411224463-16281f"
+          ]
+        },
+        "commitHash": "cf64c8a09d97d906a4f708b6843928e020c046ca",
+        "lane": 1,
+        "parentLinks": [
+          {
+            "hash": "0cffac98267bf03d3ddc458bda699b2b4bfe7f7b",
+            "lane": 0
+          }
+        ],
+        "primaryBranchName": "task/1763411224463-16281f",
+        "branchColor": "#e8a84f",
+        "branchTags": [],
+        "index": 3
+      },
+      {
+        "type": "commit",
+        "label": "Initial commit: Setup Kamui project structure",
+        "commit": {
+          "hash": "0cffac98267bf03d3ddc458bda699b2b4bfe7f7b",
+          "subject": "Initial commit: Setup Kamui project structure",
+          "author": "Hiroki Matsui",
+          "timestamp": 1763411560,
+          "parents": [
+            "e823d6dc6173a8fa4c014cb9a1de094e7ce619e5"
+          ],
+          "parent": "e823d6dc6173a8fa4c014cb9a1de094e7ce619e5",
+          "refs": "",
+          "branches": [
+            "main",
+            "task/1763411224463-16281f"
+          ]
+        },
+        "commitHash": "0cffac98267bf03d3ddc458bda699b2b4bfe7f7b",
+        "lane": 0,
+        "parentLinks": [
+          {
+            "hash": "e823d6dc6173a8fa4c014cb9a1de094e7ce619e5",
+            "lane": 0
+          }
+        ],
+        "primaryBranchName": "main",
+        "branchColor": "#4f85e8",
+        "branchTags": [],
+        "index": 4
+      },
+      {
+        "type": "commit",
+        "label": "Update Kamui system graph state",
+        "commit": {
+          "hash": "e823d6dc6173a8fa4c014cb9a1de094e7ce619e5",
+          "subject": "Update Kamui system graph state",
+          "author": "Hiroki Matsui",
+          "timestamp": 1763411520,
+          "parents": [
+            "8e40f6c456a1589fe5db9ab1469b3fbccf8e7769"
+          ],
+          "parent": "8e40f6c456a1589fe5db9ab1469b3fbccf8e7769",
+          "refs": "",
+          "branches": [
+            "main",
+            "task/1763411224463-16281f"
+          ]
+        },
+        "commitHash": "e823d6dc6173a8fa4c014cb9a1de094e7ce619e5",
+        "lane": 0,
+        "parentLinks": [
+          {
+            "hash": "8e40f6c456a1589fe5db9ab1469b3fbccf8e7769",
+            "lane": 0
+          }
+        ],
+        "primaryBranchName": "main",
+        "branchColor": "#4f85e8",
+        "branchTags": [],
+        "index": 5
+      },
+      {
+        "type": "commit",
+        "label": "Add Kamui state cache files",
+        "commit": {
+          "hash": "8e40f6c456a1589fe5db9ab1469b3fbccf8e7769",
+          "subject": "Add Kamui state cache files",
+          "author": "Hiroki Matsui",
+          "timestamp": 1763411376,
+          "parents": [],
+          "parent": null,
+          "refs": "",
+          "branches": [
+            "main",
+            "task/1763411224463-16281f"
+          ]
+        },
+        "commitHash": "8e40f6c456a1589fe5db9ab1469b3fbccf8e7769",
+        "lane": 0,
+        "parentLinks": [],
+        "primaryBranchName": "main",
+        "branchColor": "#4f85e8",
+        "branchTags": [],
+        "index": 6
+      },
+      {
+        "type": "empty",
+        "label": "初期状態 (初回コミット以前)",
+        "files": [],
+        "marker": "pre-history",
+        "index": 7
+      }
+    ]
+  },
+  "projectRoot": "/Users/hiroki-matsui/DOBOSAPO",
+  "savedAt": 1763606764365
+}

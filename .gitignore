@@ -1,0 +1,43 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Editor directories and files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary files
+*.tmp
+*.temp
+~$*
+
+# PDF build artifacts
+*.aux
+*.log
+*.out
+*.toc
+*.nav
+*.snm
+*.vrb
+
+# Node modules (if using reveal.js or other tools)
+node_modules/
+package-lock.json
+
+# Build outputs
+dist/
+build/
+*.pdf.bak
+
+# Sensitive information
+*.env
+secrets/
+credentials/

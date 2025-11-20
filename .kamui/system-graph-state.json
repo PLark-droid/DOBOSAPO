@@ -5,15 +5,15 @@
   "graphRenderingMode": "normal",
   "linkDisplayMode": "all",
   "graphStats": {
-    "totalNodes": 18,
+    "totalNodes": 20,
     "folders": 8,
-    "files": 10,
+    "files": 12,
     "images": 0,
     "videos": 0,
     "audio": 0,
     "code": 1,
-    "text": 7,
-    "html": 0,
+    "text": 8,
+    "html": 1,
     "yaml": 0,
     "json": 0,
     "other": 2,
@@ -97,9 +97,19 @@
         "path": "slides",
         "children": [
           {
+            "name": "google-slides-outline.txt",
+            "type": "file",
+            "path": "slides/google-slides-outline.txt"
+          },
+          {
             "name": "lark-seminar-15min.md",
             "type": "file",
             "path": "slides/lark-seminar-15min.md"
+          },
+          {
+            "name": "presentation.html",
+            "type": "file",
+            "path": "slides/presentation.html"
           },
           {
             "name": "template.md",
@@ -142,12 +152,12 @@
         "highlighted": false,
         "parentPath": null,
         "childFileCount": 3,
-        "x": -0.7727758711690198,
-        "y": 2.003803455094329,
-        "z": 0.5643748737515046,
-        "vx": -0.0000303368449983111,
-        "vy": -0.000026980444305364018,
-        "vz": 0.00021369542571122993
+        "x": -11.5760502691953,
+        "y": -0.8504471522727692,
+        "z": -9.787885943462989,
+        "vx": -0.00016777408932829634,
+        "vy": -0.00011915381252355171,
+        "vz": -0.00014427088565707686
       },
       {
         "id": "DOBOSAPO/.kamui",
@@ -164,12 +174,12 @@
         "highlighted": false,
         "parentPath": "DOBOSAPO",
         "childFileCount": 0,
-        "x": 7.8841588041138415,
-        "y": -29.39040601408045,
-        "z": 19.55680277932534,
-        "vx": -0.00012191994194515519,
-        "vy": 0.000025321882302181128,
-        "vz": 0.0003316238568618918
+        "x": -1.1112889431175053,
+        "y": -34.8008211456903,
+        "z": 2.1501393294337343,
+        "vx": -0.00017059833365641654,
+        "vy": -0.000059960497240354294,
+        "vz": 0.000024632578041807088
       },
       {
         "id": "DOBOSAPO/code-samples",
@@ -186,12 +196,12 @@
         "highlighted": false,
         "parentPath": "DOBOSAPO",
         "childFileCount": 1,
-        "x": 2.10556241945666,
-        "y": -31.74120103250805,
-        "z": -43.70495427886563,
-        "vx": -0.000043708359313218606,
-        "vy": -0.00002669030096011546,
-        "vz": 0.00023433552325859342
+        "x": -11.275912268336088,
+        "y": -34.27255527972585,
+        "z": -50.890803973001645,
+        "vx": -0.00013349709010922854,
+        "vy": -0.00008115445659597625,
+        "vz": -0.00014038401952739935
       },
       {
         "id": "DOBOSAPO/code-samples/sample.js",
@@ -208,12 +218,12 @@
         "highlighted": false,
         "parentPath": "DOBOSAPO/code-samples",
         "childFileCount": 0,
-        "x": 5.39251798569097,
-        "y": -55.04976913532458,
-        "z": -77.73617146778575,
-        "vx": -0.00005334397869834583,
-        "vy": -0.00004599527509541375,
-        "vz": 0.00017866239586075358
+        "x": -9.601578559780537,
+        "y": -60.15430024273411,
+        "z": -81.4396601446541,
+        "vx": -0.00011717316599025083,
+        "vy": -0.00008847888914004877,
+        "vz": -0.00018856730000038442
       },
       {
         "id": "DOBOSAPO/docs",
@@ -230,12 +240,12 @@
         "highlighted": false,
         "parentPath": "DOBOSAPO",
         "childFileCount": 1,
-        "x": 27.421041729736956,
-        "y": 37.21071116253676,
-        "z": -29.094041386354053,
-        "vx": -0.000001079067716085416,
-        "vy": -0.00005175929817382325,
-        "vz": 0.00020313464635628202
+        "x": -12.798447790955692,
+        "y": 23.381952363008253,
+        "z": -57.94867214322705,
+        "vx": -0.00017012398203726842,
+        "vy": -0.00012295753028573628,
+        "vz": -0.00011068068115316679
       },
       {
         "id": "DOBOSAPO/docs/seminar-plan.md",
@@ -249,15 +259,15 @@
         "originalColor": "#3498db",
         "defaultGlow": 0.18,
         "glowIntensity": 0.18,
-        "highlighted": true,
+        "highlighted": false,
         "parentPath": "DOBOSAPO/docs",
         "childFileCount": 0,
-        "x": 45.804063369709766,
-        "y": 63.89347904351036,
-        "z": -54.584713000426994,
-        "vx": 0.000043782773023861016,
-        "vy": -0.00002841657360082863,
-        "vz": 0.0001665616880624106
+        "x": -9.78835418637589,
+        "y": 42.679036674629586,
+        "z": -93.15557888608365,
+        "vx": -0.00022847910507963935,
+        "vy": -0.000008910913751708901,
+        "vz": -0.00014100020767074894
       },
       {
         "id": "DOBOSAPO/handouts",
@@ -274,12 +284,12 @@
         "highlighted": false,
         "parentPath": "DOBOSAPO",
         "childFileCount": 2,
-        "x": -45.36299925664799,
-        "y": -35.264362055973,
-        "z": 24.159799501955735,
-        "vx": -0.0000784596207080985,
-        "vy": -0.00009623618111861592,
-        "vz": 0.00021792644914785317
+        "x": -42.77669317261053,
+        "y": -51.406645892781796,
+        "z": 16.29729091928799,
+        "vx": -0.0001914731704498181,
+        "vy": -0.00006832970781862816,
+        "vz": -0.00007354903848433517
       },
       {
         "id": "DOBOSAPO/handouts/lark-introduction-handout.md",
@@ -293,15 +303,15 @@
         "originalColor": "#3498db",
         "defaultGlow": 0.18,
         "glowIntensity": 0.18,
-        "highlighted": true,
+        "highlighted": false,
         "parentPath": "DOBOSAPO/handouts",
         "childFileCount": 0,
-        "x": -82.78901613859055,
-        "y": -46.33719251963264,
-        "z": 28.56903878606472,
-        "vx": -0.00010853246262302647,
-        "vy": -0.0001759314249119981,
-        "vz": 0.00021573947199020284
+        "x": -72.8286976059398,
+        "y": -76.55951314234026,
+        "z": 18.961633580917766,
+        "vx": -0.00022379394890940132,
+        "vy": -0.00009170309862762548,
+        "vz": 0.000014127225529062845
       },
       {
         "id": "DOBOSAPO/handouts/template.md",
@@ -318,12 +328,12 @@
         "highlighted": false,
         "parentPath": "DOBOSAPO/handouts",
         "childFileCount": 0,
-        "x": -57.2642893822975,
-        "y": -66.03780117009906,
-        "z": 45.21997626635609,
-        "vx": -0.0001246446038089299,
-        "vy": -0.0001426805200144139,
-        "vz": 0.00021264493611340254
+        "x": -46.44504246499523,
+        "y": -81.59525424703905,
+        "z": 41.64145466823467,
+        "vx": -0.00020825551835983055,
+        "vy": -0.00006575031580358391,
+        "vz": -0.00001500588601677319
       },
       {
         "id": "DOBOSAPO/images",
@@ -340,12 +350,12 @@
         "highlighted": false,
         "parentPath": "DOBOSAPO",
         "childFileCount": 0,
-        "x": -2.6855575630820026,
-        "y": 16.04656664433257,
-        "z": 34.885183891092,
-        "vx": -0.000016709066590934334,
-        "vy": -0.00005731291152950582,
-        "vz": 0.0002450371511490899
+        "x": -30.143910182410682,
+        "y": 1.4959624264334164,
+        "z": 22.985560673043558,
+        "vx": -0.00020039805582271357,
+        "vy": -0.00007177832902767547,
+        "vz": -0.00016331344009603085
       },
       {
         "id": "DOBOSAPO/resources",
@@ -362,12 +372,12 @@
         "highlighted": false,
         "parentPath": "DOBOSAPO",
         "childFileCount": 1,
-        "x": -39.36349035558653,
-        "y": 37.912748792953714,
-        "z": 2.5529778828716045,
-        "vx": -0.000015029029525948155,
-        "vy": 0.000028288795702995614,
-        "vz": 0.0002599400440322606
+        "x": -37.386930334991355,
+        "y": 44.53715543549848,
+        "z": -2.212630224326823,
+        "vx": -0.00020770236160312753,
+        "vy": -0.00012183944480543658,
+        "vz": -0.0001364402028677766
       },
       {
         "id": "DOBOSAPO/resources/links.md",
@@ -381,15 +391,15 @@
         "originalColor": "#3498db",
         "defaultGlow": 0.18,
         "glowIntensity": 0.18,
-        "highlighted": true,
+        "highlighted": false,
         "parentPath": "DOBOSAPO/resources",
         "childFileCount": 0,
-        "x": -68.09147594604103,
-        "y": 65.50629711117551,
-        "z": -0.9344088564978341,
-        "vx": -0.00006372604836790188,
-        "vy": 0.00006642054595551045,
-        "vz": 0.000273851594755574
+        "x": -54.407724239447255,
+        "y": 79.47118517348932,
+        "z": 4.050405090144901,
+        "vx": -0.0002618677074263191,
+        "vy": -0.00008842177157308571,
+        "vz": -0.0001036040570629081
       },
       {
         "id": "DOBOSAPO/slides",
@@ -405,13 +415,35 @@
         "glowIntensity": 0.18,
         "highlighted": false,
         "parentPath": "DOBOSAPO",
-        "childFileCount": 2,
-        "x": 53.7144373917265,
-        "y": 11.438940610166563,
-        "z": 27.75698370655037,
-        "vx": 0.000041919846255620304,
-        "vy": -0.000041392205922264076,
-        "vz": 0.00015415358100349198
+        "childFileCount": 4,
+        "x": 50.53866437532417,
+        "y": 22.19060083049379,
+        "z": 38.15472208779858,
+        "vx": -0.0002380663126245722,
+        "vy": -0.00005291887605484605,
+        "vz": -0.00008403203313588646
+      },
+      {
+        "id": "DOBOSAPO/slides/google-slides-outline.txt",
+        "name": "google-slides-outline.txt",
+        "path": "DOBOSAPO/slides/google-slides-outline.txt",
+        "type": "file",
+        "lines": 0,
+        "val": 6,
+        "color": "#95a5a6",
+        "baseColor": "#95a5a6",
+        "originalColor": "#95a5a6",
+        "defaultGlow": 0.18,
+        "glowIntensity": 0.18,
+        "highlighted": true,
+        "parentPath": "DOBOSAPO/slides",
+        "childFileCount": 0,
+        "x": 77.14980273493543,
+        "y": 51.606843781815556,
+        "z": 38.384345814721776,
+        "vx": -0.0002346934300391233,
+        "vy": -0.00001552828978829825,
+        "vz": -0.0000054099731969855114
       },
       {
         "id": "DOBOSAPO/slides/lark-seminar-15min.md",
@@ -425,15 +457,37 @@
         "originalColor": "#3498db",
         "defaultGlow": 0.18,
         "glowIntensity": 0.18,
+        "highlighted": false,
+        "parentPath": "DOBOSAPO/slides",
+        "childFileCount": 0,
+        "x": 89.93568894703714,
+        "y": 16.80066027095868,
+        "z": 37.48401824098685,
+        "vx": -0.00021176853739123308,
+        "vy": -0.00000998624511488567,
+        "vz": -0.000007693912345564542
+      },
+      {
+        "id": "DOBOSAPO/slides/presentation.html",
+        "name": "presentation.html",
+        "path": "DOBOSAPO/slides/presentation.html",
+        "type": "file",
+        "lines": 0,
+        "val": 6,
+        "color": "#e44d26",
+        "baseColor": "#e44d26",
+        "originalColor": "#e44d26",
+        "defaultGlow": 0.18,
+        "glowIntensity": 0.18,
         "highlighted": true,
         "parentPath": "DOBOSAPO/slides",
         "childFileCount": 0,
-        "x": 92.24743669928908,
-        "y": 6.284667993248276,
-        "z": 33.12539293865756,
-        "vx": 0.00008990941222399448,
-        "vy": -0.000040896447927469594,
-        "vz": 0.00014309012223281113
+        "x": 71.55901378594656,
+        "y": 7.94838666226775,
+        "z": 68.54562987018016,
+        "vx": -0.0002435584120720748,
+        "vy": -0.000004285367575368112,
+        "vz": -0.00002652451764231822
       },
       {
         "id": "DOBOSAPO/slides/template.md",
@@ -450,12 +504,12 @@
         "highlighted": false,
         "parentPath": "DOBOSAPO/slides",
         "childFileCount": 0,
-        "x": 75.01522466211347,
-        "y": 28.47877936501687,
-        "z": 55.82439360129464,
-        "vx": 0.0001244985059466391,
-        "vy": -0.00003904852436688614,
-        "vz": 0.00014021106917783618
+        "x": 61.84256581143469,
+        "y": 42.84743877127372,
+        "z": 70.25475044491711,
+        "vx": -0.0003351849931711712,
+        "vy": -0.00001798375292766465,
+        "vz": -0.00004846001102910702
       },
       {
         "id": "DOBOSAPO/.DS_Store",
@@ -472,12 +526,12 @@
         "highlighted": false,
         "parentPath": "DOBOSAPO",
         "childFileCount": 0,
-        "x": -11.964875928166203,
-        "y": 21.193094769717963,
-        "z": -30.316933110246666,
-        "vx": -0.00005103825344455029,
-        "vy": 0.00005147552397855838,
-        "vz": 0.00027594914998163795
+        "x": 12.252526946009,
+        "y": 23.592055300156193,
+        "z": -24.906242289994655,
+        "vx": -0.00018899717431401715,
+        "vy": -0.000010879257787703538,
+        "vz": -0.000015593949107379184
       },
       {
         "id": "DOBOSAPO/.gitignore",
@@ -494,12 +548,12 @@
         "highlighted": false,
         "parentPath": "DOBOSAPO",
         "childFileCount": 0,
-        "x": 28.69954616965216,
-        "y": -16.10466289398477,
-        "z": -14.988339776579465,
-        "vx": -0.00004213231400715341,
-        "vy": -0.00008890174880876456,
-        "vz": 0.00028857074439409886
+        "x": 23.536661061829278,
+        "y": -13.625847285922674,
+        "z": -15.770982901219675,
+        "vx": -0.00017895273779815803,
+        "vy": -0.00010190389816307206,
+        "vz": -0.0002695805111306218
       },
       {
         "id": "DOBOSAPO/README.md",
@@ -513,15 +567,15 @@
         "originalColor": "#3498db",
         "defaultGlow": 0.18,
         "glowIntensity": 0.18,
-        "highlighted": true,
+        "highlighted": false,
         "parentPath": "DOBOSAPO",
         "childFileCount": 0,
-        "x": -29.990065426636303,
-        "y": -10.04436846513167,
-        "z": -20.851301306719705,
-        "vx": -0.00010608767343470784,
-        "vy": 0.000016396127500303108,
-        "vz": 0.00030591659341532696
+        "x": -46.678358588817936,
+        "y": -3.2872194222987883,
+        "z": -22.799330702890437,
+        "vx": -0.00015258633130653922,
+        "vy": -0.00012419632624092197,
+        "vz": -0.00020113837134355658
       }
     ],
     "links": [
@@ -587,7 +641,17 @@
       },
       {
         "source": "DOBOSAPO/slides",
+        "target": "DOBOSAPO/slides/google-slides-outline.txt",
+        "type": "tree"
+      },
+      {
+        "source": "DOBOSAPO/slides",
         "target": "DOBOSAPO/slides/lark-seminar-15min.md",
+        "type": "tree"
+      },
+      {
+        "source": "DOBOSAPO/slides",
+        "target": "DOBOSAPO/slides/presentation.html",
         "type": "tree"
       },
       {
@@ -621,8 +685,10 @@
     "README.md",
     "code-samples/sample.js",
     "docs/seminar-plan.md",
+    "handouts/lark-introduction-handout.md",
     "handouts/template.md",
     "resources/links.md",
+    "slides/lark-seminar-15min.md",
     "slides/template.md"
   ],
   "uiState": {
@@ -642,7 +708,7 @@
       "DOBOSAPO/code-samples",
       "DOBOSAPO/DOBOSAPO/handouts"
     ],
-    "selectedPath": "DOBOSAPO/resources/links.md"
+    "selectedPath": null
   },
   "directoryTreeMeta": {
     "mode": "full",
@@ -654,7 +720,7 @@
     "mode": "full",
     "isPartial": false,
     "branchPulse": {
-      "generatedAt": 1763609235597,
+      "generatedAt": 1763614328477,
       "targets": [
         "main",
         "master"
@@ -662,15 +728,19 @@
       "statsByBranch": {
         "main": {
           "branch": "main",
-          "head": "bb7bcfee2325c15ffc6e005b58d19ad3555b22c3",
-          "baseRef": null,
-          "baseHead": null,
+          "head": "9d684fae340d400a36067e0d5ace50219791b061",
+          "baseRef": "main^",
+          "baseHead": "bb7bcfee2325c15ffc6e005b58d19ad3555b22c3",
           "mergeBase": "bb7bcfee2325c15ffc6e005b58d19ad3555b22c3",
           "divergence": {
-            "aheadCount": 0,
-            "fileCount": 0
+            "aheadCount": 1,
+            "fileCount": 6
           },
-          "baseline": null,
+          "baseline": {
+            "aheadCount": 1,
+            "behindCount": 0,
+            "fileCount": 6
+          },
           "upstream": null
         }
       }
@@ -685,9 +755,9 @@
         "label": "現在のコードベース",
         "files": [],
         "branch": "main",
-        "targetCommitHash": "bb7bcfee2325c15ffc6e005b58d19ad3555b22c3",
+        "targetCommitHash": "9d684fae340d400a36067e0d5ace50219791b061",
         "worktreePath": "/Users/hiroki-matsui/DOBOSAPO",
-        "timestamp": 1763609235622,
+        "timestamp": 1763614330996,
         "lane": 0,
         "branchLabel": "main",
         "branchTags": [
@@ -699,18 +769,16 @@
       },
       {
         "type": "unstaged",
-        "label": "未ステージ (5)",
+        "label": "未ステージ (3)",
         "files": [
           ".kamui/system-graph-state.json",
-          "README.md",
-          "docs/seminar-plan.md",
-          "handouts/lark-introduction-handout.md",
-          "slides/lark-seminar-15min.md"
+          "slides/google-slides-outline.txt",
+          "slides/presentation.html"
         ],
         "branch": "main",
-        "targetCommitHash": "bb7bcfee2325c15ffc6e005b58d19ad3555b22c3",
+        "targetCommitHash": "9d684fae340d400a36067e0d5ace50219791b061",
         "worktreePath": "/Users/hiroki-matsui/DOBOSAPO",
-        "timestamp": 1763609235622,
+        "timestamp": 1763614330996,
         "sortOrder": 0,
         "lane": 0,
         "branchColor": "#4f85e8",
@@ -723,13 +791,92 @@
           "kamui/model-versions-cache.json"
         ],
         "branch": "main",
-        "targetCommitHash": "bb7bcfee2325c15ffc6e005b58d19ad3555b22c3",
+        "targetCommitHash": "9d684fae340d400a36067e0d5ace50219791b061",
         "worktreePath": "/Users/hiroki-matsui/DOBOSAPO",
-        "timestamp": 1763609235622,
+        "timestamp": 1763614330996,
         "sortOrder": 1,
         "lane": 0,
         "branchColor": "#4f85e8",
         "index": 2
+      },
+      {
+        "type": "commit",
+        "label": "Add concrete content for Lark seminar (15-minute version)",
+        "commit": {
+          "hash": "9d684fae340d400a36067e0d5ace50219791b061",
+          "subject": "Add concrete content for Lark seminar (15-minute version)",
+          "author": "Hiroki Matsui",
+          "timestamp": 1763610071,
+          "parents": [
+            "bb7bcfee2325c15ffc6e005b58d19ad3555b22c3"
+          ],
+          "parent": "bb7bcfee2325c15ffc6e005b58d19ad3555b22c3",
+          "refs": "HEAD -> main",
+          "branches": [
+            "HEAD -> main",
+            "main"
+          ]
+        },
+        "commitHash": "9d684fae340d400a36067e0d5ace50219791b061",
+        "lane": 0,
+        "parentLinks": [
+          {
+            "hash": "bb7bcfee2325c15ffc6e005b58d19ad3555b22c3",
+            "lane": 0
+          }
+        ],
+        "primaryBranchName": "main",
+        "branchColor": "#4f85e8",
+        "branchTags": [
+          "main"
+        ],
+        "worktrees": [
+          {
+            "path": "/Users/hiroki-matsui/DOBOSAPO",
+            "head": "9d684fae340d400a36067e0d5ace50219791b061",
+            "branch": "main",
+            "isMerged": false,
+            "mergeCommitHash": null,
+            "status": {
+              "staged": [
+                {
+                  "path": "kamui/model-versions-cache.json",
+                  "originalPath": null,
+                  "status": "modified",
+                  "rawPath": "kamui/model-versions-cache.json",
+                  "timestamp": 1763614328183
+                }
+              ],
+              "unstaged": [
+                {
+                  "path": ".kamui/system-graph-state.json",
+                  "originalPath": null,
+                  "status": "modified",
+                  "rawPath": ".kamui/system-graph-state.json",
+                  "timestamp": 1763614328183
+                }
+              ],
+              "untracked": [
+                {
+                  "path": "slides/google-slides-outline.txt",
+                  "status": "untracked",
+                  "rawPath": "slides/google-slides-outline.txt",
+                  "timestamp": 1763614328183
+                },
+                {
+                  "path": "slides/presentation.html",
+                  "status": "untracked",
+                  "rawPath": "slides/presentation.html",
+                  "timestamp": 1763614328183
+                }
+              ],
+              "capturedAt": 1763614328183
+            },
+            "normalizedPath": "/Users/hiroki-matsui/DOBOSAPO",
+            "lane": 0
+          }
+        ],
+        "index": 3
       },
       {
         "type": "commit",
@@ -741,9 +888,8 @@
           "timestamp": 1763606833,
           "parents": [],
           "parent": null,
-          "refs": "HEAD -> main",
+          "refs": "",
           "branches": [
-            "HEAD -> main",
             "main"
           ]
         },
@@ -752,70 +898,8 @@
         "parentLinks": [],
         "primaryBranchName": "main",
         "branchColor": "#4f85e8",
-        "branchTags": [
-          "main"
-        ],
-        "worktrees": [
-          {
-            "path": "/Users/hiroki-matsui/DOBOSAPO",
-            "head": "bb7bcfee2325c15ffc6e005b58d19ad3555b22c3",
-            "branch": "main",
-            "isMerged": false,
-            "mergeCommitHash": null,
-            "status": {
-              "staged": [
-                {
-                  "path": "kamui/model-versions-cache.json",
-                  "originalPath": null,
-                  "status": "modified",
-                  "rawPath": "kamui/model-versions-cache.json",
-                  "timestamp": 1763609235361
-                }
-              ],
-              "unstaged": [
-                {
-                  "path": ".kamui/system-graph-state.json",
-                  "originalPath": null,
-                  "status": "modified",
-                  "rawPath": ".kamui/system-graph-state.json",
-                  "timestamp": 1763609235361
-                },
-                {
-                  "path": "README.md",
-                  "originalPath": null,
-                  "status": "modified",
-                  "rawPath": "README.md",
-                  "timestamp": 1763609235361
-                },
-                {
-                  "path": "docs/seminar-plan.md",
-                  "originalPath": null,
-                  "status": "modified",
-                  "rawPath": "docs/seminar-plan.md",
-                  "timestamp": 1763609235361
-                }
-              ],
-              "untracked": [
-                {
-                  "path": "handouts/lark-introduction-handout.md",
-                  "status": "untracked",
-                  "rawPath": "handouts/lark-introduction-handout.md",
-                  "timestamp": 1763609235361
-                },
-                {
-                  "path": "slides/lark-seminar-15min.md",
-                  "status": "untracked",
-                  "rawPath": "slides/lark-seminar-15min.md",
-                  "timestamp": 1763609235361
-                }
-              ],
-              "capturedAt": 1763609235361
-            },
-            "normalizedPath": "/Users/hiroki-matsui/DOBOSAPO",
-            "lane": 0
-          }
-        ],
-        "index": 3
+        "branchTags": [],
+        "index": 4
       },
       {
         "type": "commit",
@@ -854,7 +938,7 @@
         "branchTags": [
           "task/1763411224463-16281f"
         ],
-        "index": 4
+        "index": 5
       },
       {
         "type": "commit",
@@ -884,7 +968,7 @@
         "primaryBranchName": "main",
         "branchColor": "#4f85e8",
         "branchTags": [],
-        "index": 5
+        "index": 6
       },
       {
         "type": "commit",
@@ -914,7 +998,7 @@
         "primaryBranchName": "task/1763411224463-16281f",
         "branchColor": "#e8a84f",
         "branchTags": [],
-        "index": 6
+        "index": 7
       },
       {
         "type": "commit",
@@ -945,7 +1029,7 @@
         "primaryBranchName": "main",
         "branchColor": "#4f85e8",
         "branchTags": [],
-        "index": 7
+        "index": 8
       },
       {
         "type": "commit",
@@ -976,7 +1060,7 @@
         "primaryBranchName": "main",
         "branchColor": "#4f85e8",
         "branchTags": [],
-        "index": 8
+        "index": 9
       },
       {
         "type": "commit",
@@ -1000,17 +1084,17 @@
         "primaryBranchName": "main",
         "branchColor": "#4f85e8",
         "branchTags": [],
-        "index": 9
+        "index": 10
       },
       {
         "type": "empty",
         "label": "初期状態 (初回コミット以前)",
         "files": [],
         "marker": "pre-history",
-        "index": 10
+        "index": 11
       }
     ]
   },
   "projectRoot": "/Users/hiroki-matsui/DOBOSAPO",
-  "savedAt": 1763609238291
+  "savedAt": 1763614331059
 }
